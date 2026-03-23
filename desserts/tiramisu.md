@@ -22,3 +22,8 @@
 - Repeat with another layer of dipped ladyfingers and remaining cream
 - Dust generously with cocoa powder
 - Refrigerate for at least 4 hours before serving
+
+
+## feedback
+
+- after tasting the tiramisu you are welcome to send us your feedback
