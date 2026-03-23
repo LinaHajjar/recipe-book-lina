@@ -12,24 +12,20 @@
 - **1 lb** fresh spinach, rinsed and chopped (or use frozen spinach, thawed and drained)
 - **1** medium zucchini, thinly sliced
 - **1** bell pepper, diced
-- **1** small onion, diced
-- **2-3 cloves** garlic, minced
 - **1 tablespoon** olive oil
 - **Salt and pepper** to taste
 - **1 teaspoon** dried oregano or Italian seasoning
-- **Fresh basil** for garnish (optional)
 
 
 ## Instructions
 
 1. **Preheat Oven:**
-   - Preheat your oven to 375°F (190°C).
+   - Preheat your oven to 375°F (190°C): warmluft, or 200 °C normal
 
 2. **Prepare Vegetables:**
-   - Heat olive oil in a large skillet over medium heat. Add the onion and garlic, sautéing until softened.
+   - Heat olive oil in a large skillet over medium heat. 
    - Add the bell pepper, zucchini, and spinach. Cook until the vegetables are
-     just tender and the spinach has wilted. Season with salt, pepper, and
-     dried oregano.
+     just tender and the spinach has wilted. Season with salt and pepper
    - Remove from heat and set aside.
 
 3. **Mix Cheeses:**
@@ -48,7 +44,4 @@
    - Cover the lasagna with aluminum foil and bake in the preheated oven for 25 minutes.
    - Remove the foil and bake for another 15-20 minutes, or until the cheese is bubbly and golden brown.
 
-6. **Serve:**
-   - Let the lasagna cool for 10-15 minutes before slicing.
-   - Garnish with fresh basil leaves if desired.
-   - Serve warm and enjoy!
+Enjoy!
